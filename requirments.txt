@@ -30,3 +30,4 @@ typing_extensions==4.13.0
 urllib3==2.3.0
 zipp==3.21.0
 opencv-python
+matplotlib
